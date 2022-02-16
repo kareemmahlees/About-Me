@@ -12,5 +12,5 @@ i am interested in any thing that saves time and effort which includes Automatio
 ---
 ### My Goals for 2022 🎯
 i am aiming hopfully this year to :-
-*improve my skills in python more and more and really master this language 
-*learn another general purposed scripting language like python (propaply Go , Js or Dart not sure yet)
+* improve my skills in python more and more and really master this language 
+* learn another general purposed scripting language like python (propaply Go , Js or Dart not sure yet)
