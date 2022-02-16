@@ -7,7 +7,7 @@ i started learning the basics and slowly going into deep stuff like working with
 ### Why i started Github 🚶
 it seemes like a good idea to share my work and get feedback but no social media site seemed to do the work until i found Github 
 ---
-### What i am interested in 
+### What i am interested in ✨
 i am interested in any thing that saves time and effort which includes Automation and Scripting "If the computer can do so make it do it"
 ---
 ### My Goals for 2022 🎯
