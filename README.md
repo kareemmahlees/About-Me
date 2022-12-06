@@ -9,7 +9,8 @@ I have experience in interprise demanded skills and concepts like OOP , asynchro
 - 🌍  I'm based in Egypt
 - 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/kareem-mahlees-a82375234/)
 - ✉️  You can contact me at [kareemmahlees@gmail.com](mailto:kareemmahlees@gmail.com)
-- 🧠 I'm learning Advanced Laravel and Nodejs
+- 🧠 I'm learning Java and Advanced Backend Testing
+- 📜 I'm currently taking a scolarship from Egypt FWD
 - 🤝 I'm open to collaborating on Web dev projects with other backend or frontend Devs and Automation projects
 
 ### Contributions to the Community
@@ -62,20 +63,20 @@ I have experience in interprise demanded skills and concepts like OOP , asynchro
 
 ### ⭐ Other Technical Skills
 
-- Git/Github
-- Docker
-- Postman
-- Basic CI/CD
-- PgAdmin4
-- Basic bash
+- Git/Github                - Docker
+- CI/CD pipline with Github - Linux
+- Postman                   - Git Flow
+- Vim for Vscode user 
 
 ### 👨🏻‍💻 Soft Skills
 
-- **Very** Strong and Powerfull Research mindset
-- Problem solving for real life situations
-- Clean Coding
+- I have growing passion for programming and constantly learning 
+  new technologies
+- I am a speedy learner 
+- An average typing speed of 110 wpm
+- **Very** Strong and Robust Research mindset
+- I write production level code
 - Great verbal and textual communication skills
-- Continous passion for self-development
 
 ### Socials
 
