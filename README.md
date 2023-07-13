@@ -48,48 +48,40 @@ I have a strong experience and enjoy to write Automation scripts.
 </p>
 
 
-<!-- ### Python Specific Skills
 
-- **Backend Stack** :
-  - FastAPI
-  * Postgresql
-  * SQLmodel
-  * Alembic
-  * Pytest
-  * Authlib
-  * JWT
-- **Famous Libraries i have experience in** :
-  - Requests
-  - httpx
-  - Selenium
-  - Flet
-  - Rich
-  - moviepy
-  - Openpyxl
-  - docxtpl
-  - pytube
-  - pyautogui -->
 
 ### ⭐ Other Technical Skills
 
-- Git/Github                - Docker
-- CI/CD pipline with Github - Linux
-- Postman                   - Git Flow
+- Git
+- Docker                
+- Kubernetes
+- Github/Bitbucket 
+- Postman
 - Vim for Vscode user 
 
 ### 👨🏻‍💻 Soft Skills
 
-- I have growing passion for programming and constantly learning 
+- I have a growing passion for programming and constantly learning 
   new technologies
 - I am a speedy learner 
 - An average typing speed of 110 wpm
 - **Very** Strong and Robust Research mindset
-- I write production level code
+- I write production-level code
 - Great verbal and textual communication skills
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/kareemmahlees" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kareem-mahlees" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left">
+ <a href="https://www.github.com/kareemmahlees" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
+ </a> 
+ <a href="https://www.linkedin.com/in/kareem-mahlees" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+ </a>
+ <a href="http://www.medium.com/@kareemmahlees" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" />
+ </a>
+</p>
 
 ### Badges
 
