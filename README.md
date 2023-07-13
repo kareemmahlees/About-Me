@@ -2,15 +2,15 @@
 
 ## Backend Developer
 
-I Specialize in Building and Designing APIs, integration with 3rd party APIs and building robust backend services
+I Specialize in Building and Designing APIs, maintaining and refactoring codebases and building robust backend services.
 
-I have a strong experience and enjoy to write Automation scripts
+I have a strong experience and enjoy to write Automation scripts.
 
 - 🌍  I'm based in Egypt
 - 🖥️  See my profile at [LinkedIn](http://www.linkedin.com/in/kareem-mahlees-a82375234/)
 - ✉️  You can contact me at [kareemmahlees@gmail.com](mailto:kareemmahlees@gmail.com)
-- 🧠 I'm learning Java and Advanced Backend Testing
-- 📜 I'm currently taking a scolarship from Egypt FWD
+- 🧠 I'm learning k8s and kafka.
+- 📜 I'm currently working as a backend developer @Evento
 - 🤝 I'm open to collaborating on Web dev projects with other backend or frontend Devs and Automation projects
 
 ### Contributions to the Community
