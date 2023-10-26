@@ -18,7 +18,6 @@ I have a strong experience and enjoy to write Automation scripts.
 - ⚡ Owner And Creator of [**fastgen**](https://pypi.org/project/fastgen/) Python Module
 - 💫 Owner And Creator of [**NotionPy**](https://pypi.org/project/auto-py-notion/) Python Module
 - 👨🏻‍💻 Owner And Creator of [**Pyignore**](https://marketplace.visualstudio.com/items?itemName=KareemEbrahim.pyignore) Extension for Microsoft Visual Studio code
-- ✌🏻 Contributor to the [**Starlite**](https://github.com/starlite-api/starlite) open source API framework: [**Async Test Client**](https://github.com/starlite-api/starlite/pull/1045)
 ### Skills
 
 <p align="left">
