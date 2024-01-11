@@ -2,16 +2,15 @@
 
 ## Backend Engineer
 
-I Specialize in Building and Designing APIs, maintaining and refactoring codebases and building robust backend services.
+I Specialize in Building and Designing APIs, maintaining and refactoring codebases, and building robust software services.
 
-I have a strong experience and enjoy to write Automation scripts.
+I have strong experience and enjoy writing Automation scripts.
 
 - 🌍  I'm based in Egypt
 - 🖥️  See my profile at [LinkedIn](http://www.linkedin.com/in/kareem-mahlees-a82375234/)
 - ✉️  You can contact me at [kareemmahlees@gmail.com](mailto:kareemmahlees@gmail.com)
-- 🧠 I'm learning k8s and kafka.
-- 📜 I'm currently working as a backend developer @Evento
-- 🤝 I'm open to collaborating on Web dev projects with other backend or frontend Devs and Automation projects
+- 📜 I'm currently open for new positions and opportunities.
+- 🤝 I'm open to collaborating on cool software projects and exchanging knowledge with other talented engineers.
 
 ### Contributions to the Community
 
@@ -22,10 +21,10 @@ I have a strong experience and enjoy to write Automation scripts.
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
