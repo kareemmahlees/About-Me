@@ -1,22 +1,13 @@
-# Hi, My name is Kareem Ebrahim
+# Hi, I am Kareem Ebrahim
 
 ## Backend Engineer
+Performance nerd, a clean code addict, loves open source, and appreciates developer experience.
 
-I Specialize in Building and Designing APIs, maintaining and refactoring codebases, and building robust software services.
-
-I have strong experience and enjoy writing Automation scripts.
+I lean towards backend, but I do very well in frontend, Try me!
 
 - 🌍  I'm based in Egypt
 - 🖥️  See my profile at [LinkedIn](http://www.linkedin.com/in/kareem-mahlees-a82375234/)
 - ✉️  You can contact me at [kareemmahlees@gmail.com](mailto:kareemmahlees@gmail.com)
-- 📜 I'm currently open for new positions and opportunities.
-- 🤝 I'm open to collaborating on cool software projects and exchanging knowledge with other talented engineers.
-
-### Contributions to the Community
-
-- ⚡ Owner And Creator of [**fastgen**](https://pypi.org/project/fastgen/) Python Module
-- 💫 Owner And Creator of [**NotionPy**](https://pypi.org/project/auto-py-notion/) Python Module
-- 👨🏻‍💻 Owner And Creator of [**Pyignore**](https://marketplace.visualstudio.com/items?itemName=KareemEbrahim.pyignore) Extension for Microsoft Visual Studio code
 ### Skills
 
 <p align="left">
@@ -28,13 +19,13 @@ I have strong experience and enjoy writing Automation scripts.
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -47,27 +38,6 @@ I have strong experience and enjoy writing Automation scripts.
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
 
-
-
-
-### ⭐ Other Technical Skills
-
-- Git
-- Docker                
-- Kubernetes
-- Github/Bitbucket 
-- Postman
-- Vim for Vscode user 
-
-### 👨🏻‍💻 Soft Skills
-
-- I have a growing passion for programming and constantly learning 
-  new technologies
-- I am a speedy learner 
-- An average typing speed of 110 wpm
-- **Very** Strong and Robust Research mindset
-- I write production-level code
-- Great verbal and textual communication skills
 
 ### Socials
 
@@ -87,15 +57,6 @@ I have strong experience and enjoy writing Automation scripts.
 
 <b>My GitHub Stats</b>
 
-<!-- <a href="http://www.github.com/kareemmahlees"><img src="https://github-readme-stats.vercel.app/api?username=kareemmahlees&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kareemmahlees's GitHub stats" /></a> -->
 <a href="http://www.github.com/kareemmahlees"><img src="https://github-readme-stats.vercel.app/api?username=kareemmahlees&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kareemmahlees's GitHub stats" /></a>
 
 <a href="http://www.github.com/kareemmahlees"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kareemmahlees&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/kareemmahlees"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=kareemmahlees&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/kareemmahlees/Team-Manager" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kareemmahlees&repo=Team-Manager&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kareemmahlees/fastgen" align="right">
- <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kareemmahlees&repo=fastgen&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a></div><br /><br /><br /><br /><br /><br /><br />
